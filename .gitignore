@@ -1,0 +1,14 @@
+# root ignores
+node_modules
+.DS_Store
+.env
+
+
+# client
+client/node_modules
+client/dist
+
+
+# server
+server/node_modules
+server/uploads
